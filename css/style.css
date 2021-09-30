@@ -142,16 +142,15 @@ header p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 30px;
+    padding: 0 130px;
 }
 
 #serviços div {
-
             display: flex;
             flex-direction: column;
             align-items: center;
             text-align: center;
-            margin-top: 30px;
+            margin-top: 30px;            
 }
 
 #serviços img {
@@ -279,8 +278,8 @@ footer p {
     #serviços div {
 
                 flex-flow: 1;
-                flex-basis: 150px;
-                padding: 0 10px;
+                flex-basis: 200px;
+                padding: 0 25px;
                 
     }
 
