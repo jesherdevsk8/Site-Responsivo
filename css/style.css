@@ -132,7 +132,6 @@ header p {
 
     background-color: #f1f1f1;
     color: #1c1c1c;
-
 }
 
 /* SERVIÇOS */
@@ -238,6 +237,14 @@ footer p {
 
             flex-direction: row;
             width: 70%;
+    }
+
+    nav:hover ul:hover li :hover{
+        background-color: #fff;
+        color: #191970;
+        transition: 0.5s;
+        padding: 10px;            
+
     }
 
     /* cabeçalho  */
