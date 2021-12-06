@@ -239,11 +239,14 @@ footer p {
             width: 70%;
     }
 
+    nav ul li a {
+        border-radius: 15px;
+    }
+
     nav:hover ul:hover li :hover{
         background-color: #fff;
         color: #191970;
-        transition: 0.5s;
-        padding: 10px;            
+        transition: 0.2s;        
 
     }
 
